@@ -593,6 +593,7 @@
             box-shadow: 0px 8px 16px 1px rgba(203, 203, 203, 0.2);
             border-radius: 20px;
             padding: 20px;
+            // padding-right: 0;
             box-sizing: border-box;
             .type-name {
               font-weight: bold;
@@ -605,7 +606,7 @@
               display: flex;
               justify-content: space-between;
               align-items: center;
-              font-size: 28px;
+              font-size: 24px;
               color: #333333;
 
               span {
@@ -615,7 +616,7 @@
               }
 
               .price {
-                font-size: 60px;
+                font-size: 50px;
                 font-weight: 800;
                 color: #011336;
               }
